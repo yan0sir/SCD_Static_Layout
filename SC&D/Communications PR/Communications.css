@@ -1,0 +1,36 @@
+body{
+    margin: auto;   
+  padding: 100;
+}
+
+h1{
+    color: red;
+}
+p{
+    margin: 4%;
+    text-align: center;
+    font-size: larger;
+    font-weight: 400;
+}
+img{
+    height: 300px;
+    width: 400px;
+    filter: grayscale(100%);
+}
+img:hover{
+    opacity: 0.3;
+    transition: .3s ease;
+}
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 50px;
+    
+  }
+  
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
