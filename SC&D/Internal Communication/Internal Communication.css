@@ -1,0 +1,27 @@
+body{
+    padding: 10%;
+      width: 800px;
+     margin: 0 auto;
+    background-color: rgb(30, 30, 30);
+    color: antiquewhite;
+}
+h1{
+    color: rgb(194, 231, 194);
+    font-size: 50;
+}
+
+h2{
+padding-top: 45px;
+font-size: 30;
+
+}
+
+p{
+padding-left: 5%;
+font-size: 20;
+}
+
+li{
+ padding-left: 5%;
+padding-top: 10px;
+}
